@@ -1,0 +1,3 @@
+// This file should be a 180x180 pixel PNG version of the KODA logo
+// Use the following command to create it:
+// convert https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1024_transparent_circle%20(1)-saXqL7GR53eBXpshYoZPbBFfMzN3rn.png -resize 180x180 public/apple-icon.png
