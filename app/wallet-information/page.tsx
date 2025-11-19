@@ -40,18 +40,14 @@ export default function WalletInformationPage() {
                   <Laptop className="h-10 w-10 text-primary" />
                   <div>
                     <h3 className="font-medium">KODA Core Wallet</h3>
-                    <p className="text-sm text-muted-foreground">
-                      Full node wallet with complete blockchain validation
-                    </p>
+                    <p className="text-sm text-white">Full node wallet with complete blockchain validation</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4 p-4 rounded-lg bg-black/30">
                   <Laptop className="h-10 w-10 text-primary" />
                   <div>
                     <h3 className="font-medium">KODA Light Wallet</h3>
-                    <p className="text-sm text-muted-foreground">
-                      Lightweight wallet for faster setup and less storage
-                    </p>
+                    <p className="text-sm text-white">Lightweight wallet for faster setup and less storage</p>
                   </div>
                 </div>
                 <Button asChild className="w-full">
@@ -72,14 +68,14 @@ export default function WalletInformationPage() {
                   <Smartphone className="h-10 w-10 text-primary" />
                   <div>
                     <h3 className="font-medium">KODA Mobile (Android)</h3>
-                    <p className="text-sm text-muted-foreground">Official Android wallet application</p>
+                    <p className="text-sm text-white">Official Android wallet application</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4 p-4 rounded-lg bg-black/30">
                   <Smartphone className="h-10 w-10 text-primary" />
                   <div>
                     <h3 className="font-medium">KODA Mobile (iOS)</h3>
-                    <p className="text-sm text-muted-foreground">Official iOS wallet application</p>
+                    <p className="text-sm text-white">Official iOS wallet application</p>
                   </div>
                 </div>
                 <div className="grid grid-cols-2 gap-4">
@@ -109,7 +105,7 @@ export default function WalletInformationPage() {
                   <ExternalLink className="h-10 w-10 text-primary" />
                   <div>
                     <h3 className="font-medium">KODA Web Wallet</h3>
-                    <p className="text-sm text-muted-foreground">Secure browser-based wallet for easy access</p>
+                    <p className="text-sm text-white">Secure browser-based wallet for easy access</p>
                   </div>
                 </div>
                 <div className="aspect-video relative bg-black/20 rounded-lg overflow-hidden">
@@ -135,7 +131,7 @@ export default function WalletInformationPage() {
                   <Shield className="h-6 w-6 text-primary flex-shrink-0 mt-1" />
                   <div>
                     <h3 className="font-medium">Backup Your Wallet</h3>
-                    <p className="text-sm text-muted-foreground">
+                    <p className="text-sm text-white">
                       Always backup your wallet seed phrase and store it in a secure location offline.
                     </p>
                   </div>
@@ -144,7 +140,7 @@ export default function WalletInformationPage() {
                   <Shield className="h-6 w-6 text-primary flex-shrink-0 mt-1" />
                   <div>
                     <h3 className="font-medium">Use Strong Passwords</h3>
-                    <p className="text-sm text-muted-foreground">
+                    <p className="text-sm text-white">
                       Create unique, complex passwords for your wallet and never share them.
                     </p>
                   </div>
@@ -153,7 +149,7 @@ export default function WalletInformationPage() {
                   <Shield className="h-6 w-6 text-primary flex-shrink-0 mt-1" />
                   <div>
                     <h3 className="font-medium">Enable 2FA</h3>
-                    <p className="text-sm text-muted-foreground">
+                    <p className="text-sm text-white">
                       Use two-factor authentication whenever available for additional security.
                     </p>
                   </div>
@@ -162,7 +158,7 @@ export default function WalletInformationPage() {
                   <Shield className="h-6 w-6 text-primary flex-shrink-0 mt-1" />
                   <div>
                     <h3 className="font-medium">Keep Software Updated</h3>
-                    <p className="text-sm text-muted-foreground">
+                    <p className="text-sm text-white">
                       Always update to the latest wallet version to benefit from security improvements.
                     </p>
                   </div>
@@ -178,25 +174,25 @@ export default function WalletInformationPage() {
             </CardHeader>
             <CardContent>
               <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
-                <Button asChild variant="outline" className="h-auto py-4 flex-col">
+                <Button asChild variant="outline" className="h-auto py-4 flex-col bg-transparent">
                   <Link href="/wallet-guide">
                     <Download className="h-6 w-6 mb-2" />
                     <span>Wallet Guide</span>
                   </Link>
                 </Button>
-                <Button asChild variant="outline" className="h-auto py-4 flex-col">
+                <Button asChild variant="outline" className="h-auto py-4 flex-col bg-transparent">
                   <Link href="/faq">
                     <ExternalLink className="h-6 w-6 mb-2" />
                     <span>FAQ</span>
                   </Link>
                 </Button>
-                <Button asChild variant="outline" className="h-auto py-4 flex-col">
+                <Button asChild variant="outline" className="h-auto py-4 flex-col bg-transparent">
                   <Link href="https://api-v2.k0bradag.com/api/whitepaperV2.pdf">
                     <Download className="h-6 w-6 mb-2" />
                     <span>Whitepaper</span>
                   </Link>
                 </Button>
-                <Button asChild variant="outline" className="h-auto py-4 flex-col">
+                <Button asChild variant="outline" className="h-auto py-4 flex-col bg-transparent">
                   <Link href="/support">
                     <Shield className="h-6 w-6 mb-2" />
                     <span>Support</span>

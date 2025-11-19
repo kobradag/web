@@ -13,7 +13,7 @@ export default function WhitepaperV2Page() {
       <div className="container mx-auto px-4 py-12 max-w-4xl">
         <header className="text-center mb-12 border-b border-gray-800 pb-6">
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-primary">KOBRADAG Whitepaper V2</h1>
-          <p className="text-gray-400">Date: April 2025</p>
+          <p className="text-white">Date: April 2025</p>
 
           <div className="mt-6 flex justify-center">
             <Button asChild className="bg-primary hover:bg-primary/90 text-black flex items-center gap-2">
@@ -26,7 +26,7 @@ export default function WhitepaperV2Page() {
         </header>
 
         <section className="mb-10">
-          <h2 className="text-2xl font-bold mb-4 text-primary border-b border-gray-800 pb-2">Overview</h2>
+          <h2 className="text-2xl font-bold mb-4 text-white border-b border-gray-800 pb-2">Overview</h2>
           <p className="mb-4">
             KOBRADAG (KODA) is a next-generation fork of the Kaspa blockchain, built to preserve the core values of
             decentralization and accessibility through a novel, GPU-focused approach to mining.
@@ -34,7 +34,7 @@ export default function WhitepaperV2Page() {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-2xl font-bold mb-4 text-primary border-b border-gray-800 pb-2">Introduction</h2>
+          <h2 className="text-2xl font-bold mb-4 text-white border-b border-gray-800 pb-2">Introduction</h2>
           <p className="mb-4">
             Kaspa is a trailblazing blockchain platform that implements the GhostDAG protocol, leveraging a Directed
             Acyclic Graph (DAG) structure. Unlike traditional blockchains with linear progression, GhostDAG allows
@@ -46,7 +46,7 @@ export default function WhitepaperV2Page() {
         </section>
 
         <section className="mb-10 bg-yellow-900/20 border border-yellow-600/30 p-6 rounded-lg">
-          <h2 className="text-2xl font-bold mb-4 text-yellow-500">Problem Statement</h2>
+          <h2 className="text-2xl font-bold mb-4 text-white">Problem Statement</h2>
           <p className="mb-4">
             Kaspa's original mining algorithm was designed to be ASIC-friendly. While this design choice maximized
             performance, it unintentionally led to the centralization of mining power in large-scale industrial farms.
@@ -65,7 +65,7 @@ export default function WhitepaperV2Page() {
         </section>
 
         <section className="mb-10 bg-green-900/20 border border-green-600/30 p-6 rounded-lg">
-          <h2 className="text-2xl font-bold mb-4 text-green-500">Our Solution</h2>
+          <h2 className="text-2xl font-bold mb-4 text-white">Our Solution</h2>
           <p className="mb-4">
             The KOBRADAG (KODA) project proposes a paradigm shift: replacing ASIC dominance with a GPU- centric mining
             algorithm. This makes mining more accessible to a wider population, re-democratizing the network and
@@ -82,7 +82,7 @@ export default function WhitepaperV2Page() {
         </section>
 
         <section className="mb-10 bg-blue-900/20 border border-blue-600/30 p-6 rounded-lg">
-          <h2 className="text-2xl font-bold mb-4 text-blue-500">Key Benefits of GPU Mining</h2>
+          <h2 className="text-2xl font-bold mb-4 text-white">Key Benefits of GPU Mining</h2>
           <ul className="list-disc list-inside space-y-2 ml-4">
             <li>
               <strong>Mining Democracy:</strong> GPUs are common in personal computers, empowering anyone to join the
@@ -104,7 +104,7 @@ export default function WhitepaperV2Page() {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-2xl font-bold mb-4 text-primary border-b border-gray-800 pb-2">Conclusion</h2>
+          <h2 className="text-2xl font-bold mb-4 text-white border-b border-gray-800 pb-2">Conclusion</h2>
           <p className="mb-4">
             By shifting to GPU mining, KOBRADAG takes a firm stand for the future of decentralized infrastructure. It
             offers a scalable, secure, and fair ecosystem that truly reflects the original promise of blockchain
@@ -113,23 +113,23 @@ export default function WhitepaperV2Page() {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-2xl font-bold mb-4 text-primary border-b border-gray-800 pb-2">Appendices</h2>
-          <h3 className="text-xl font-bold mb-2 text-gray-300">• Figure 1: ASIC vs. GPU Mining Efficiency</h3>
+          <h2 className="text-2xl font-bold mb-4 text-white border-b border-gray-800 pb-2">Appendices</h2>
+          <h3 className="text-xl font-bold mb-2 text-white">• Figure 1: ASIC vs. GPU Mining Efficiency</h3>
           <p className="mb-4">
             A comparative graph visualizing mining hardware efficiency across key criteria such as accessibility, cost,
             decentralization, and energy use.
           </p>
-          <p className="mb-4 text-green-500">
+          <p className="mb-4 text-white">
             ✅ Highlights the superiority of GPU mining in fostering a more democratic and accessible mining landscape.
           </p>
 
-          <h3 className="text-xl font-bold mb-2 text-gray-300">• Table 1: Current Mining Power Distribution</h3>
+          <h3 className="text-xl font-bold mb-2 text-white">• Table 1: Current Mining Power Distribution</h3>
           <p className="mb-4">
             A data table presenting the existing power imbalance in mining ecosystems, showcasing how ASIC farms
             dominate the majority of the network's hashrate.
           </p>
 
-          <h3 className="text-xl font-bold mb-2 text-gray-300">• Figure 2: Projected Distribution Post-GPU Adoption</h3>
+          <h3 className="text-xl font-bold mb-2 text-white">• Figure 2: Projected Distribution Post-GPU Adoption</h3>
           <p className="mb-4">
             A forecasted distribution model displaying how GPU-centric mining can reclaim decentralization, boosting the
             participation of individual and small-scale miners across the globe.
@@ -137,8 +137,8 @@ export default function WhitepaperV2Page() {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-2xl font-bold mb-4 text-primary border-b border-gray-800 pb-2">Project Goals</h2>
-          <h3 className="text-xl font-bold mb-2 text-gray-300">1. Decentralization</h3>
+          <h2 className="text-2xl font-bold mb-4 text-white border-b border-gray-800 pb-2">Project Goals</h2>
+          <h3 className="text-xl font-bold mb-2 text-white">1. Decentralization</h3>
           <p className="mb-4">GPU mining actively strengthens decentralization in the network through:</p>
           <p className="mb-4">
             <strong>Broader Mining Distribution</strong>
@@ -153,7 +153,7 @@ export default function WhitepaperV2Page() {
             mining by lowering economic and technical barriers to entry.
           </p>
 
-          <h3 className="text-xl font-bold mb-2 text-gray-300">2. Accessibility</h3>
+          <h3 className="text-xl font-bold mb-2 text-white">2. Accessibility</h3>
           <p className="mb-4">GPU-based mining drastically reduces the obstacles faced by new participants:</p>
           <p className="mb-4">
             <strong>Affordability</strong>
@@ -177,13 +177,13 @@ export default function WhitepaperV2Page() {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-2xl font-bold mb-4 text-primary border-b border-gray-800 pb-2">Network Security</h2>
+          <h2 className="text-2xl font-bold mb-4 text-white border-b border-gray-800 pb-2">Network Security</h2>
           <p className="mb-4">
             GPU-based mining significantly enhances the security of the KOBRADAG network by enabling decentralization,
             increasing participant diversity, and improving adaptability.
           </p>
 
-          <h3 className="text-xl font-bold mb-2 text-gray-300">1. Resistance to 51% Attacks</h3>
+          <h3 className="text-xl font-bold mb-2 text-white">1. Resistance to 51% Attacks</h3>
           <p className="mb-4">
             A decentralized GPU mining model makes it far more difficult for any single entity to gain majority control
             of the network's hashrate.
@@ -196,7 +196,7 @@ export default function WhitepaperV2Page() {
             By distributing mining power across thousands of individual nodes, network integrity remains intact.
           </p>
 
-          <h3 className="text-xl font-bold mb-2 text-gray-300">2. Diverse Participant Base</h3>
+          <h3 className="text-xl font-bold mb-2 text-white">2. Diverse Participant Base</h3>
           <p className="mb-4">
             The accessibility of GPU mining allows a wide range of participants — from hobbyists to small collectives —
             to contribute to the network.
@@ -206,7 +206,7 @@ export default function WhitepaperV2Page() {
             benefits from the collective vigilance of its community.
           </p>
 
-          <h3 className="text-xl font-bold mb-2 text-gray-300">3. Adaptability & Resilience</h3>
+          <h3 className="text-xl font-bold mb-2 text-white">3. Adaptability & Resilience</h3>
           <p className="mb-4">
             GPUs are not locked into a single algorithm, unlike ASICs. This flexibility means the network can:
           </p>
@@ -218,7 +218,7 @@ export default function WhitepaperV2Page() {
           <p className="mb-4">...all without requiring massive hardware reinvestments from participants.</p>
           <p className="mb-4">This adaptive capacity strengthens long-term network resilience and security.</p>
 
-          <p className="mb-4 text-green-500">
+          <p className="mb-4 text-white">
             ✅ In conclusion, GPU mining is not only a tool for decentralization — it is a critical pillar of security.
             It fortifies the network against malicious attacks, expands the ecosystem's diversity, and empowers it to
             evolve with changing technological demands.
@@ -230,8 +230,8 @@ export default function WhitepaperV2Page() {
         </section>
 
         <section className="mb-10 bg-blue-900/20 border border-blue-600/30 p-6 rounded-lg">
-          <h2 className="text-2xl font-bold mb-4 text-blue-500">Technical Specifications</h2>
-          <h3 className="text-xl font-bold mb-2 text-gray-300">Algorithm: KODAHASH (formerly BLAKE3)</h3>
+          <h2 className="text-2xl font-bold mb-4 text-white">Technical Specifications</h2>
+          <h3 className="text-xl font-bold mb-2 text-white">Algorithm: KODAHASH (formerly BLAKE3)</h3>
           <p className="mb-4">
             KOBRADAG (KODA) originally utilized the BLAKE3 hashing algorithm, chosen for its exceptional speed,
             simplicity, and efficiency across general-purpose hardware like CPUs and GPUs.
@@ -271,29 +271,29 @@ export default function WhitepaperV2Page() {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-2xl font-bold mb-4 text-primary border-b border-gray-800 pb-2">Tokenomics</h2>
-          <h3 className="text-xl font-bold mb-2 text-gray-300">Launch and Distribution</h3>
+          <h2 className="text-2xl font-bold mb-4 text-white border-b border-gray-800 pb-2">Tokenomics</h2>
+          <h3 className="text-xl font-bold mb-2 text-white">Launch and Distribution</h3>
           <ul className="list-disc list-inside space-y-2 ml-4">
             <li>Launch Date: 28 May 2024</li>
             <li>Pre-Sale: None — ensuring fair launch and distribution</li>
             <li>Initial Supply: 0 (pure PoW emission model)</li>
           </ul>
 
-          <h3 className="text-xl font-bold mb-2 mt-4 text-gray-300">Emission Schedule</h3>
+          <h3 className="text-xl font-bold mb-2 mt-4 text-white">Emission Schedule</h3>
           <ul className="list-disc list-inside space-y-2 ml-4">
             <li>Follows a monthly halving model</li>
             <li>Monthly reductions implemented gradually for smoother transitions</li>
             <li>First halving scheduled: june 2024</li>
           </ul>
 
-          <h3 className="text-xl font-bold mb-2 mt-4 text-gray-300">Block Rewards</h3>
+          <h3 className="text-xl font-bold mb-2 mt-4 text-white">Block Rewards</h3>
           <ul className="list-disc list-inside space-y-2 ml-4">
             <li>Current Reward: 10 KODA per block</li>
             <li>Block Time: Consistent with Kaspa DAG-based architecture</li>
             <li>Mining Reward Adjustment: Dynamically adjusted based on halving schedule</li>
           </ul>
 
-          <h3 className="text-xl font-bold mb-2 mt-4 text-gray-300">Supply and Market Info</h3>
+          <h3 className="text-xl font-bold mb-2 mt-4 text-white">Supply and Market Info</h3>
           <ul className="list-disc list-inside space-y-2 ml-4">
             <li>Maximum Supply: 445,000,000 KODA</li>
             <li>Initial Max Supply (v1): 500,000,000 KODA</li>
@@ -306,7 +306,7 @@ export default function WhitepaperV2Page() {
         </section>
 
         <section className="mb-10">
-          <h2 className="text-2xl font-bold mb-4 text-primary border-b border-gray-800 pb-2">Links & Resources</h2>
+          <h2 className="text-2xl font-bold mb-4 text-white border-b border-gray-800 pb-2">Links & Resources</h2>
           <ul className="list-disc list-inside space-y-2 ml-4">
             <li>
               Website:{" "}
@@ -389,15 +389,13 @@ export default function WhitepaperV2Page() {
         </section>
 
         <section className="mb-10 bg-blue-900/20 border border-blue-600/30 p-6 rounded-lg">
-          <h2 className="text-2xl font-bold mb-4 text-blue-500">
-            Technical Note: Why BLAKE3 Resists ASIC Centralization
-          </h2>
+          <h2 className="text-2xl font-bold mb-4 text-white">Technical Note: Why BLAKE3 Resists ASIC Centralization</h2>
           <p className="mb-4">
             Although KOBRADAG now utilizes the custom KODAHASH, understanding BLAKE3's properties offers context for the
             network's original ASIC-resistant foundation.
           </p>
 
-          <h3 className="text-xl font-bold mb-2 text-gray-300">Why BLAKE3 Was a Strong Choice Initially:</h3>
+          <h3 className="text-xl font-bold mb-2 text-white">Why BLAKE3 Was a Strong Choice Initially:</h3>
           <p className="mb-4">
             <strong>ASIC Specialization Barrier</strong>
             <br />

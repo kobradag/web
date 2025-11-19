@@ -23,7 +23,7 @@ export default function ArticlesPage() {
             KODA Knowledge Base
           </h1>
 
-          <p className="text-lg mb-12 text-center text-gray-300">
+          <p className="text-lg mb-12 text-center text-white">
             Explore our collection of in-depth articles about KODA cryptocurrency, BLOCKDAG technology, mining guides,
             and best practices for cryptocurrency management.
           </p>
@@ -35,14 +35,14 @@ export default function ArticlesPage() {
                 <CardDescription>Understanding the next evolution in distributed ledger technology</CardDescription>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-300">
+                <p className="text-white">
                   Explore how BLOCKDAG technology differs from traditional blockchain, offering improved scalability,
                   faster transaction speeds, and enhanced security features.
                 </p>
               </CardContent>
               <CardFooter>
                 <Link href="/articles/what-is-blockdag-technology" passHref>
-                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20">
+                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20 bg-transparent">
                     Read Article
                   </Button>
                 </Link>
@@ -55,14 +55,14 @@ export default function ArticlesPage() {
                 <CardDescription>Maximize your mining returns with KODA</CardDescription>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-300">
+                <p className="text-white">
                   Learn about KODA mining profitability, hardware requirements, energy consumption considerations, and
                   strategies to optimize your mining operation.
                 </p>
               </CardContent>
               <CardFooter>
                 <Link href="/articles/koda-mining-profitability-guide" passHref>
-                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20">
+                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20 bg-transparent">
                     Read Article
                   </Button>
                 </Link>
@@ -75,14 +75,14 @@ export default function ArticlesPage() {
                 <CardDescription>Best practices for securing your digital assets</CardDescription>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-300">
+                <p className="text-white">
                   Discover essential security measures to protect your cryptocurrency wallets, including cold storage
                   options, multi-signature setups, and recovery strategies.
                 </p>
               </CardContent>
               <CardFooter>
                 <Link href="/articles/cryptocurrency-wallet-security-best-practices" passHref>
-                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20">
+                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20 bg-transparent">
                     Read Article
                   </Button>
                 </Link>
@@ -95,14 +95,14 @@ export default function ArticlesPage() {
                 <CardDescription>A comprehensive comparison of distributed ledger technologies</CardDescription>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-300">
+                <p className="text-white">
                   Compare BLOCKDAG and blockchain technologies across key metrics including transaction speed,
                   scalability, security features, and energy efficiency.
                 </p>
               </CardContent>
               <CardFooter>
                 <Link href="/articles/blockdag-vs-blockchain-comparison" passHref>
-                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20">
+                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20 bg-transparent">
                     Read Article
                   </Button>
                 </Link>
@@ -115,14 +115,14 @@ export default function ArticlesPage() {
                 <CardDescription>Understanding KODA's economic model and distribution</CardDescription>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-300">
+                <p className="text-white">
                   Dive deep into KODA's tokenomics, including supply mechanisms, distribution strategy, mining rewards,
                   and long-term economic sustainability.
                 </p>
               </CardContent>
               <CardFooter>
                 <Link href="/articles/koda-tokenomics-explained" passHref>
-                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20">
+                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20 bg-transparent">
                     Read Article
                   </Button>
                 </Link>

@@ -37,23 +37,23 @@ export default function NetworkInformationPage() {
             <CardContent>
               <div className="space-y-4">
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Consensus Algorithm</span>
+                  <span className="text-white">Consensus Algorithm</span>
                   <span className="font-medium">BlockDAG</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Block Time</span>
+                  <span className="text-white">Block Time</span>
                   <span className="font-medium">~60 seconds</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Network Hashrate</span>
+                  <span className="text-white">Network Hashrate</span>
                   <span className="font-medium">1.2 PH/s</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Active Nodes</span>
+                  <span className="text-white">Active Nodes</span>
                   <span className="font-medium">1,250+</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Network Difficulty</span>
+                  <span className="text-white">Network Difficulty</span>
                   <span className="font-medium">3.45 T</span>
                 </div>
               </div>
@@ -68,23 +68,23 @@ export default function NetworkInformationPage() {
             <CardContent>
               <div className="space-y-4">
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Mining Algorithm</span>
+                  <span className="text-white">Mining Algorithm</span>
                   <span className="font-medium">Keccak-256</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Block Size</span>
+                  <span className="text-white">Block Size</span>
                   <span className="font-medium">2 MB</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Transaction Speed</span>
+                  <span className="text-white">Transaction Speed</span>
                   <span className="font-medium">~1,000 TPS</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">P2P Port</span>
+                  <span className="text-white">P2P Port</span>
                   <span className="font-medium">8333</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">RPC Port</span>
+                  <span className="text-white">RPC Port</span>
                   <span className="font-medium">8332</span>
                 </div>
               </div>
@@ -98,25 +98,25 @@ export default function NetworkInformationPage() {
             </CardHeader>
             <CardContent>
               <div className="space-y-4">
-                <Button asChild variant="outline" className="w-full justify-start">
+                <Button asChild variant="outline" className="w-full justify-start bg-transparent">
                   <Link href="https://api-v2.k0bradag.com/api/whitepaperV2.pdf" className="flex items-center gap-2">
                     <Download className="h-4 w-4" />
                     Download Whitepaper
                   </Link>
                 </Button>
-                <Button asChild variant="outline" className="w-full justify-start">
+                <Button asChild variant="outline" className="w-full justify-start bg-transparent">
                   <Link href="/mining-guide" className="flex items-center gap-2">
                     <Server className="h-4 w-4" />
                     Mining Guide
                   </Link>
                 </Button>
-                <Button asChild variant="outline" className="w-full justify-start">
+                <Button asChild variant="outline" className="w-full justify-start bg-transparent">
                   <Link href="https://github.com/kobra-dev" target="_blank" className="flex items-center gap-2">
                     <ExternalLink className="h-4 w-4" />
                     GitHub Repository
                   </Link>
                 </Button>
-                <Button asChild variant="outline" className="w-full justify-start">
+                <Button asChild variant="outline" className="w-full justify-start bg-transparent">
                   <Link href="/blocks" className="flex items-center gap-2">
                     <ExternalLink className="h-4 w-4" />
                     Block Explorer

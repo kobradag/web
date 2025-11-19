@@ -36,7 +36,7 @@ export default function BlockdagArticle() {
       name: "KODA Cryptocurrency",
       logo: {
         "@type": "ImageObject",
-        url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo192-xINx4wb7ufnAyqelyEbedAqUG0msXW.png",
+        url: "/images/logo192.png",
       },
     },
     datePublished: publishDate,
@@ -72,7 +72,7 @@ export default function BlockdagArticle() {
               What is BLOCKDAG Technology?
             </h1>
 
-            <div className="text-sm text-gray-400 mb-8">Published: April 27, 2025 • 10 min read</div>
+            <div className="text-sm text-white mb-8">Published: April 27, 2025 • 10 min read</div>
 
             <div className="relative w-full h-64 mb-8 rounded-lg overflow-hidden">
               <Image
@@ -160,17 +160,17 @@ export default function BlockdagArticle() {
               </p>
               <div className="flex flex-wrap gap-4">
                 <Link href="/koda-technology" passHref>
-                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20">
+                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20 bg-transparent">
                     KODA Technology
                   </Button>
                 </Link>
                 <Link href="/mining-guide" passHref>
-                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20">
+                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20 bg-transparent">
                     Mining Guide
                   </Button>
                 </Link>
                 <Link href="/get-koda" passHref>
-                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20">
+                  <Button variant="outline" className="border-primary text-white hover:bg-primary/20 bg-transparent">
                     Get KODA
                   </Button>
                 </Link>
