@@ -108,7 +108,7 @@ importers:
         specifier: latest
         version: 2.45.0(three@0.181.2)
       tw-animate-css:
-        specifier: latest
+        specifier: 1.4.0
         version: 1.4.0
     devDependencies:
       '@types/node':
