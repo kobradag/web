@@ -1,0 +1,19 @@
+{
+    "name": "KODA",
+    "short_name": "KODA",
+    "icons": [
+        {
+            "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo32-Pzyp7Duebpo4eduHpBPSHtj1KjBZHD.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo192-xINx4wb7ufnAyqelyEbedAqUG0msXW.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone"
+}
