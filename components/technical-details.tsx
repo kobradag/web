@@ -13,25 +13,25 @@ export function TechnicalDetails() {
           <TabsList className="grid w-full grid-cols-4 bg-black/50">
             <TabsTrigger
               value="overview"
-              className="data-[state=active]:bg-primary data-[state=active]:text-black font-raleway"
+              className="data-[state=active]:bg-primary data-[state=active]:text-black text-white font-raleway"
             >
               Overview
             </TabsTrigger>
             <TabsTrigger
               value="technical"
-              className="data-[state=active]:bg-primary data-[state=active]:text-black font-raleway"
+              className="data-[state=active]:bg-primary data-[state=active]:text-black text-white font-raleway"
             >
               Technical
             </TabsTrigger>
             <TabsTrigger
               value="tokenomics"
-              className="data-[state=active]:bg-primary data-[state=active]:text-black font-raleway"
+              className="data-[state=active]:bg-primary data-[state=active]:text-black text-white font-raleway"
             >
               Tokenomics
             </TabsTrigger>
             <TabsTrigger
               value="algorithm"
-              className="data-[state=active]:bg-primary data-[state=active]:text-black font-raleway"
+              className="data-[state=active]:bg-primary data-[state=active]:text-black text-white font-raleway"
             >
               Algorithm
             </TabsTrigger>

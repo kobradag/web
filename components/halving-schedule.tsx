@@ -85,7 +85,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/02/2025",
     supply: "14,057,859",
     totalSupply: "205,072,195",
-    percentage: `${((205072195 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "44.50%",
   },
   {
     daaScore: "26298040",
@@ -93,7 +93,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "29/03/2025",
     supply: "13,271,023",
     totalSupply: "218,343,217",
-    percentage: `${((218343217 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "49.04%",
   },
   {
     daaScore: "28927840",
@@ -101,7 +101,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "29/04/2025",
     supply: "12,528,367",
     totalSupply: "230,871,584",
-    percentage: `${((230871584 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "51.62%",
   },
   {
     daaScore: "31557640",
@@ -109,7 +109,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "29/05/2025",
     supply: "11,827,263",
     totalSupply: "242,698,847",
-    percentage: `${((242698847 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "52.77%",
   },
   {
     daaScore: "34187440",
@@ -117,7 +117,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "29/06/2025",
     supply: "11,165,342",
     totalSupply: "253,864,189",
-    percentage: `${((253864189 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "56.87%",
   },
   {
     daaScore: "36817240",
@@ -125,7 +125,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "29/07/2025",
     supply: "10,540,501",
     totalSupply: "264,404,690",
-    percentage: `${((264404690 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "59.18%",
   },
   {
     daaScore: "39447040",
@@ -133,7 +133,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/08/2025",
     supply: "9,950,637",
     totalSupply: "274,355,327",
-    percentage: `${((274355327 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "61.52%",
   },
   {
     daaScore: "42076840",
@@ -141,7 +141,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/09/2025",
     supply: "9,393,646",
     totalSupply: "283,748,973",
-    percentage: `${((283748973 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "63.78%",
   },
   {
     daaScore: "44706640",
@@ -149,7 +149,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/10/2025",
     supply: "8,867,949",
     totalSupply: "292,616,922",
-    percentage: `${((292616922 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "65.85%",
   },
   {
     daaScore: "47336440",
@@ -157,7 +157,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/11/2025",
     supply: "8,371,705",
     totalSupply: "300,988,627",
-    percentage: `${((300988627 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "67.77%",
   },
   {
     daaScore: "49966240",
@@ -165,7 +165,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/12/2025",
     supply: "7,903,075",
     totalSupply: "308,891,702",
-    percentage: `${((308891702 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "69.58%",
   },
   {
     daaScore: "52596040",
@@ -173,7 +173,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/01/2026",
     supply: "7,460,743",
     totalSupply: "316,352,445",
-    percentage: `${((316352445 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "70.89%",
   },
   {
     daaScore: "55225840",
@@ -181,7 +181,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/02/2026",
     supply: "7,043,130",
     totalSupply: "323,395,575",
-    percentage: `${((323395575 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "72.09%",
   },
   {
     daaScore: "57855640",
@@ -189,7 +189,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "29/03/2026",
     supply: "6,648,923",
     totalSupply: "330,044,498",
-    percentage: `${((330044498 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "73.16%",
   },
   {
     daaScore: "60485440",
@@ -197,7 +197,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "29/04/2026",
     supply: "6,276,807",
     totalSupply: "336,321,305",
-    percentage: `${((336321305 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "75.08%",
   },
   {
     daaScore: "63115240",
@@ -205,7 +205,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "29/05/2026",
     supply: "5,925,465",
     totalSupply: "342,246,770",
-    percentage: `${((342246770 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "76.73%",
   },
   {
     daaScore: "65745040",
@@ -213,7 +213,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/06/2026",
     supply: "5,593,848",
     totalSupply: "347,840,618",
-    percentage: `${((347840618 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "77.85%",
   },
   {
     daaScore: "68374840",
@@ -221,7 +221,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "29/07/2026",
     supply: "5,280,638",
     totalSupply: "353,121,256",
-    percentage: `${((353121256 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "78.88%",
   },
   {
     daaScore: "71004640",
@@ -229,7 +229,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/08/2026",
     supply: "4,985,049",
     totalSupply: "358,106,305",
-    percentage: `${((358106305 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "80.02%",
   },
   {
     daaScore: "73634440",
@@ -237,7 +237,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/09/2026",
     supply: "4,706,027",
     totalSupply: "362,812,332",
-    percentage: `${((362812332 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "81.07%",
   },
   {
     daaScore: "76264240",
@@ -245,7 +245,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/10/2026",
     supply: "4,442,521",
     totalSupply: "367,254,853",
-    percentage: `${((367254853 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "82.07%",
   },
   {
     daaScore: "78894040",
@@ -253,7 +253,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/11/2026",
     supply: "4,193,742",
     totalSupply: "371,448,595",
-    percentage: `${((371448595 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "83.00%",
   },
   {
     daaScore: "81523840",
@@ -261,7 +261,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/12/2026",
     supply: "3,958,901",
     totalSupply: "375,407,496",
-    percentage: `${((375407496 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "83.84%",
   },
   {
     daaScore: "84153640",
@@ -269,7 +269,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/01/2027",
     supply: "3,737,209",
     totalSupply: "379,144,705",
-    percentage: `${((379144705 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "84.59%",
   },
   {
     daaScore: "86783440",
@@ -277,7 +277,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/02/2027",
     supply: "3,528,140",
     totalSupply: "382,672,845",
-    percentage: `${((382672845 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "85.26%",
   },
   {
     daaScore: "89413240",
@@ -285,7 +285,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "29/03/2027",
     supply: "3,330,642",
     totalSupply: "386,003,486",
-    percentage: `${((386003486 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "85.89%",
   },
   {
     daaScore: "92043040",
@@ -293,7 +293,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/04/2027",
     supply: "3,144,189",
     totalSupply: "389,147,675",
-    percentage: `${((389147675 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "86.49%",
   },
   {
     daaScore: "94672840",
@@ -301,7 +301,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "29/05/2027",
     supply: "2,968,255",
     totalSupply: "392,115,931",
-    percentage: `${((392115931 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "87.07%",
   },
   {
     daaScore: "97302640",
@@ -309,7 +309,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/06/2027",
     supply: "2,802,052",
     totalSupply: "394,917,983",
-    percentage: `${((394917983 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "87.63%",
   },
   {
     daaScore: "99932440",
@@ -317,7 +317,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "29/07/2027",
     supply: "2,645,316",
     totalSupply: "397,563,298",
-    percentage: `${((397563298 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "88.17%",
   },
   {
     daaScore: "102562240",
@@ -325,7 +325,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/08/2027",
     supply: "2,497,258",
     totalSupply: "400,060,556",
-    percentage: `${((400060556 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "88.67%",
   },
   {
     daaScore: "105192040",
@@ -333,7 +333,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/09/2027",
     supply: "2,357,616",
     totalSupply: "402,418,172",
-    percentage: `${((402418172 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "89.15%",
   },
   {
     daaScore: "107821840",
@@ -341,7 +341,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/10/2027",
     supply: "2,225,600",
     totalSupply: "404,643,772",
-    percentage: `${((404643772 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "89.62%",
   },
   {
     daaScore: "110451640",
@@ -349,7 +349,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/11/2027",
     supply: "2,100,947",
     totalSupply: "406,744,719",
-    percentage: `${((406744719 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "90.06%",
   },
   {
     daaScore: "113081440",
@@ -357,7 +357,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/12/2027",
     supply: "1,983,395",
     totalSupply: "408,728,114",
-    percentage: `${((408728114 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "90.48%",
   },
   {
     daaScore: "115711240",
@@ -365,7 +365,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/01/2028",
     supply: "1,872,418",
     totalSupply: "410,600,532",
-    percentage: `${((410600532 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "90.88%",
   },
   {
     daaScore: "118341040",
@@ -373,7 +373,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/02/2028",
     supply: "1,767,489",
     totalSupply: "412,368,020",
-    percentage: `${((412368020 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "91.25%",
   },
   {
     daaScore: "120970840",
@@ -381,7 +381,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/03/2028",
     supply: "1,668,608",
     totalSupply: "414,036,629",
-    percentage: `${((414036629 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "91.60%",
   },
   {
     daaScore: "123600640",
@@ -389,7 +389,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/04/2028",
     supply: "1,575,250",
     totalSupply: "415,611,879",
-    percentage: `${((415611879 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "91.92%",
   },
   {
     daaScore: "126230440",
@@ -397,7 +397,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/05/2028",
     supply: "1,487,152",
     totalSupply: "417,099,031",
-    percentage: `${((417099031 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "92.22%",
   },
   {
     daaScore: "128860240",
@@ -405,7 +405,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/06/2028",
     supply: "1,403,787",
     totalSupply: "418,502,818",
-    percentage: `${((418502818 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "92.50%",
   },
   {
     daaScore: "131490040",
@@ -413,7 +413,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/07/2028",
     supply: "1,325,156",
     totalSupply: "419,827,974",
-    percentage: `${((419827974 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "92.76%",
   },
   {
     daaScore: "134119840",
@@ -421,7 +421,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/08/2028",
     supply: "1,250,996",
     totalSupply: "421,078,970",
-    percentage: `${((421078970 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "93.00%",
   },
   {
     daaScore: "136749640",
@@ -429,7 +429,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/09/2028",
     supply: "1,181,043",
     totalSupply: "422,260,013",
-    percentage: `${((422260013 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "93.22%",
   },
   {
     daaScore: "139379440",
@@ -437,7 +437,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/10/2028",
     supply: "1,115,035",
     totalSupply: "423,375,048",
-    percentage: `${((423375048 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "93.42%",
   },
   {
     daaScore: "142009240",
@@ -445,7 +445,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/11/2028",
     supply: "1,052,709",
     totalSupply: "424,427,757",
-    percentage: `${((424427757 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "93.60%",
   },
   {
     daaScore: "144639040",
@@ -453,7 +453,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/12/2028",
     supply: "993,801",
     totalSupply: "425,421,559",
-    percentage: `${((425421559 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "93.77%",
   },
   {
     daaScore: "147268840",
@@ -461,7 +461,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/01/2029",
     supply: "938,050",
     totalSupply: "426,359,608",
-    percentage: `${((426359608 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "93.92%",
   },
   {
     daaScore: "149898640",
@@ -469,7 +469,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/02/2029",
     supply: "885,454",
     totalSupply: "427,245,062",
-    percentage: `${((427245062 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.05%",
   },
   {
     daaScore: "152528440",
@@ -477,7 +477,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/03/2029",
     supply: "836,013",
     totalSupply: "428,081,075",
-    percentage: `${((428081075 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.17%",
   },
   {
     daaScore: "155158240",
@@ -485,7 +485,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/04/2029",
     supply: "789,203",
     totalSupply: "428,870,278",
-    percentage: `${((428870278 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.27%",
   },
   {
     daaScore: "157788040",
@@ -493,7 +493,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/05/2029",
     supply: "745,022",
     totalSupply: "429,615,301",
-    percentage: `${((429615301 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.35%",
   },
   {
     daaScore: "160417840",
@@ -501,7 +501,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/06/2029",
     supply: "703,209",
     totalSupply: "430,318,509",
-    percentage: `${((430318509 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.42%",
   },
   {
     daaScore: "163047640",
@@ -509,7 +509,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/07/2029",
     supply: "663,762",
     totalSupply: "430,982,271",
-    percentage: `${((430982271 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.48%",
   },
   {
     daaScore: "165677440",
@@ -517,7 +517,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/08/2029",
     supply: "626,681",
     totalSupply: "431,608,952",
-    percentage: `${((431608952 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.53%",
   },
   {
     daaScore: "168307240",
@@ -525,7 +525,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/09/2029",
     supply: "591,705",
     totalSupply: "432,200,657",
-    percentage: `${((432200657 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.57%",
   },
   {
     daaScore: "170937040",
@@ -533,7 +533,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/10/2029",
     supply: "558,570",
     totalSupply: "432,759,227",
-    percentage: `${((432759227 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.60%",
   },
   {
     daaScore: "173566840",
@@ -541,7 +541,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/11/2029",
     supply: "527,275",
     totalSupply: "433,286,502",
-    percentage: `${((433286502 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.62%",
   },
   {
     daaScore: "176196640",
@@ -549,7 +549,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/12/2029",
     supply: "497,821",
     totalSupply: "433,784,323",
-    percentage: `${((433784323 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.63%",
   },
   {
     daaScore: "178826440",
@@ -557,7 +557,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/01/2030",
     supply: "469,945",
     totalSupply: "434,254,268",
-    percentage: `${((434254268 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "181456240",
@@ -565,7 +565,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/02/2030",
     supply: "443,647",
     totalSupply: "434,697,915",
-    percentage: `${((434697915 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "184086040",
@@ -573,7 +573,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "28/03/2030",
     supply: "418,927",
     totalSupply: "435,116,842",
-    percentage: `${((435116842 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "186715840",
@@ -581,7 +581,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/04/2030",
     supply: "395,522",
     totalSupply: "435,512,364",
-    percentage: `${((435512364 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "189345640",
@@ -589,7 +589,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/05/2030",
     supply: "373,432",
     totalSupply: "435,885,796",
-    percentage: `${((435885796 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "191975440",
@@ -597,7 +597,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/06/2030",
     supply: "352,656",
     totalSupply: "436,238,452",
-    percentage: `${((436238452 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "194605240",
@@ -605,7 +605,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/07/2030",
     supply: "332,933",
     totalSupply: "436,571,385",
-    percentage: `${((436571385 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "197235040",
@@ -613,7 +613,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/08/2030",
     supply: "314,261",
     totalSupply: "436,885,646",
-    percentage: `${((436885646 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "199864840",
@@ -621,7 +621,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/09/2030",
     supply: "296,641",
     totalSupply: "437,182,287",
-    percentage: `${((437182287 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "202494640",
@@ -629,7 +629,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/10/2030",
     supply: "280,074",
     totalSupply: "437,462,361",
-    percentage: `${((437462361 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "205124440",
@@ -637,7 +637,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/11/2030",
     supply: "264,295",
     totalSupply: "437,726,656",
-    percentage: `${((437726656 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "207754240",
@@ -645,7 +645,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/12/2030",
     supply: "249,568",
     totalSupply: "437,976,224",
-    percentage: `${((437976224 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "210384040",
@@ -653,7 +653,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/01/2031",
     supply: "235,630",
     totalSupply: "438,211,854",
-    percentage: `${((438211854 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "213013840",
@@ -661,7 +661,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/02/2031",
     supply: "222,481",
     totalSupply: "438,434,335",
-    percentage: `${((438434335 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "215643640",
@@ -669,7 +669,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/03/2031",
     supply: "210,121",
     totalSupply: "438,644,456",
-    percentage: `${((438644456 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "218273440",
@@ -677,7 +677,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/04/2031",
     supply: "198,287",
     totalSupply: "438,842,743",
-    percentage: `${((438842743 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "220903240",
@@ -685,7 +685,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/05/2031",
     supply: "187,242",
     totalSupply: "439,029,985",
-    percentage: `${((439029985 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "223533040",
@@ -693,7 +693,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/06/2031",
     supply: "176,723",
     totalSupply: "439,206,707",
-    percentage: `${((439206707 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "226162840",
@@ -701,7 +701,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "27/07/2031",
     supply: "166,729",
     totalSupply: "439,373,437",
-    percentage: `${((439373437 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "228792640",
@@ -709,7 +709,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/08/2031",
     supply: "157,525",
     totalSupply: "439,530,962",
-    percentage: `${((439530962 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "231422440",
@@ -717,7 +717,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/09/2031",
     supply: "148,584",
     totalSupply: "439,679,545",
-    percentage: `${((439679545 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "234052240",
@@ -725,7 +725,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/10/2031",
     supply: "140,168",
     totalSupply: "439,819,714",
-    percentage: `${((439819714 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "236682040",
@@ -733,7 +733,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/11/2031",
     supply: "132,279",
     totalSupply: "439,951,993",
-    percentage: `${((439951993 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "239311840",
@@ -741,7 +741,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/12/2031",
     supply: "124,916",
     totalSupply: "440,076,908",
-    percentage: `${((440076908 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "241941640",
@@ -749,7 +749,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/01/2032",
     supply: "117,815",
     totalSupply: "440,194,723",
-    percentage: `${((440194723 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "244571440",
@@ -757,7 +757,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/02/2032",
     supply: "111,241",
     totalSupply: "440,305,964",
-    percentage: `${((440305964 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "247201240",
@@ -765,7 +765,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/03/2032",
     supply: "104,929",
     totalSupply: "440,410,893",
-    percentage: `${((440410893 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "249831040",
@@ -773,7 +773,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/04/2032",
     supply: "99,143",
     totalSupply: "440,510,036",
-    percentage: `${((440510036 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "252460840",
@@ -781,7 +781,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/05/2032",
     supply: "93,621",
     totalSupply: "440,603,657",
-    percentage: `${((440603657 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "255090640",
@@ -789,7 +789,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/06/2032",
     supply: "88,361",
     totalSupply: "440,692,018",
-    percentage: `${((440692018 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "257720440",
@@ -797,7 +797,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/07/2032",
     supply: "83,365",
     totalSupply: "440,775,383",
-    percentage: `${((440775383 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "260350240",
@@ -805,7 +805,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/08/2032",
     supply: "78,631",
     totalSupply: "440,854,014",
-    percentage: `${((440854014 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "262980040",
@@ -813,7 +813,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/09/2032",
     supply: "74,160",
     totalSupply: "440,928,174",
-    percentage: `${((440928174 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "265609840",
@@ -821,7 +821,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/10/2032",
     supply: "69,953",
     totalSupply: "440,998,127",
-    percentage: `${((440998127 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "268239640",
@@ -829,7 +829,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/11/2032",
     supply: "66,008",
     totalSupply: "441,064,135",
-    percentage: `${((441064135 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "270869440",
@@ -837,7 +837,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/12/2032",
     supply: "62,326",
     totalSupply: "441,126,461",
-    percentage: `${((441126461 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "273499240",
@@ -845,7 +845,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/01/2033",
     supply: "58,908",
     totalSupply: "441,185,369",
-    percentage: `${((441185369 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "276129040",
@@ -853,7 +853,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/02/2033",
     supply: "55,489",
     totalSupply: "441,240,858",
-    percentage: `${((441240858 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "278758840",
@@ -861,7 +861,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/03/2033",
     supply: "52,333",
     totalSupply: "441,293,191",
-    percentage: `${((441293191 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "281388640",
@@ -869,7 +869,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/04/2033",
     supply: "49,440",
     totalSupply: "441,342,631",
-    percentage: `${((441342631 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "284018440",
@@ -877,7 +877,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/05/2033",
     supply: "46,547",
     totalSupply: "441,389,178",
-    percentage: `${((441389178 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "286648240",
@@ -885,7 +885,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/06/2033",
     supply: "43,918",
     totalSupply: "441,433,096",
-    percentage: `${((441433096 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "289278040",
@@ -893,7 +893,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/07/2033",
     supply: "41,551",
     totalSupply: "441,474,647",
-    percentage: `${((441474647 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "291907840",
@@ -901,7 +901,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/08/2033",
     supply: "39,184",
     totalSupply: "441,513,831",
-    percentage: `${((441513831 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "294537640",
@@ -909,7 +909,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/09/2033",
     supply: "37,080",
     totalSupply: "441,550,911",
-    percentage: `${((441550911 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "297167440",
@@ -917,7 +917,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/10/2033",
     supply: "34,976",
     totalSupply: "441,585,887",
-    percentage: `${((441585887 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "299797240",
@@ -925,7 +925,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/11/2033",
     supply: "33,135",
     totalSupply: "441,619,023",
-    percentage: `${((441619023 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "302427040",
@@ -933,7 +933,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/12/2033",
     supply: "31,295",
     totalSupply: "441,650,317",
-    percentage: `${((441650317 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "305056840",
@@ -941,7 +941,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/01/2034",
     supply: "29,454",
     totalSupply: "441,679,771",
-    percentage: `${((441679771 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "307686640",
@@ -949,7 +949,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/02/2034",
     supply: "27,876",
     totalSupply: "441,707,647",
-    percentage: `${((441707647 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "310316440",
@@ -957,7 +957,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/03/2034",
     supply: "26,298",
     totalSupply: "441,733,945",
-    percentage: `${((441733945 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "312946240",
@@ -965,7 +965,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/04/2034",
     supply: "24,720",
     totalSupply: "441,758,665",
-    percentage: `${((441758665 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "315576040",
@@ -973,7 +973,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/05/2034",
     supply: "23,405",
     totalSupply: "441,782,070",
-    percentage: `${((441782070 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "318205840",
@@ -981,7 +981,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/06/2034",
     supply: "22,090",
     totalSupply: "441,804,161",
-    percentage: `${((441804161 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "320835640",
@@ -989,7 +989,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/07/2034",
     supply: "20,775",
     totalSupply: "441,824,936",
-    percentage: `${((441824936 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "323465440",
@@ -997,7 +997,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/08/2034",
     supply: "19,724",
     totalSupply: "441,844,660",
-    percentage: `${((441844660 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "326095240",
@@ -1005,7 +1005,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/09/2034",
     supply: "18,672",
     totalSupply: "441,863,331",
-    percentage: `${((441863331 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "328725040",
@@ -1013,7 +1013,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/10/2034",
     supply: "17,620",
     totalSupply: "441,880,951",
-    percentage: `${((441880951 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "331354840",
@@ -1021,7 +1021,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/11/2034",
     supply: "16,568",
     totalSupply: "441,897,519",
-    percentage: `${((441897519 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "333984640",
@@ -1029,7 +1029,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/12/2034",
     supply: "15,516",
     totalSupply: "441,913,034",
-    percentage: `${((441913034 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "336614440",
@@ -1037,7 +1037,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/01/2035",
     supply: "14,727",
     totalSupply: "441,927,761",
-    percentage: `${((441927761 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "339244240",
@@ -1045,7 +1045,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "23/02/2035",
     supply: "13,938",
     totalSupply: "441,941,699",
-    percentage: `${((441941699 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "341874040",
@@ -1053,7 +1053,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/03/2035",
     supply: "13,149",
     totalSupply: "441,954,848",
-    percentage: `${((441954848 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "344503840",
@@ -1061,7 +1061,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/04/2035",
     supply: "12,360",
     totalSupply: "441,967,208",
-    percentage: `${((441967208 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "347133640",
@@ -1069,7 +1069,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "26/05/2035",
     supply: "11,571",
     totalSupply: "441,978,779",
-    percentage: `${((441978779 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "349763440",
@@ -1077,7 +1077,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/06/2035",
     supply: "11,045",
     totalSupply: "441,989,825",
-    percentage: `${((441989825 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "352393240",
@@ -1085,7 +1085,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/07/2035",
     supply: "10,519",
     totalSupply: "442,000,344",
-    percentage: `${((442000344 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "355023040",
@@ -1093,7 +1093,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/08/2035",
     supply: "9,993",
     totalSupply: "442,010,337",
-    percentage: `${((442010337 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "357652840",
@@ -1101,7 +1101,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/09/2035",
     supply: "9,467",
     totalSupply: "442,019,804",
-    percentage: `${((442019804 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "360282640",
@@ -1109,7 +1109,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/10/2035",
     supply: "8,941",
     totalSupply: "442,028,746",
-    percentage: `${((442028746 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "362912440",
@@ -1117,7 +1117,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/11/2035",
     supply: "8,415",
     totalSupply: "442,037,161",
-    percentage: `${((442037161 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "365542240",
@@ -1125,7 +1125,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/12/2035",
     supply: "7,889",
     totalSupply: "442,045,050",
-    percentage: `${((442045050 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "368172040",
@@ -1133,7 +1133,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/01/2036",
     supply: "7,363",
     totalSupply: "442,052,414",
-    percentage: `${((442052414 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "370801840",
@@ -1141,7 +1141,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "23/02/2036",
     supply: "6,837",
     totalSupply: "442,059,251",
-    percentage: `${((442059251 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "373431640",
@@ -1149,7 +1149,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "25/03/2036",
     supply: "6,575",
     totalSupply: "442,065,826",
-    percentage: `${((442065826 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "376061440",
@@ -1157,7 +1157,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/04/2036",
     supply: "6,312",
     totalSupply: "442,072,137",
-    percentage: `${((442072137 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "378691240",
@@ -1165,7 +1165,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/05/2036",
     supply: "6,049",
     totalSupply: "442,078,186",
-    percentage: `${((442078186 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "381321040",
@@ -1173,7 +1173,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/06/2036",
     supply: "5,786",
     totalSupply: "442,083,971",
-    percentage: `${((442083971 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "383950840",
@@ -1181,7 +1181,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/07/2036",
     supply: "5,523",
     totalSupply: "442,089,494",
-    percentage: `${((442089494 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "386580640",
@@ -1189,7 +1189,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "24/08/2036",
     supply: "5,260",
     totalSupply: "442,094,754",
-    percentage: `${((442094754 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "389210440",
@@ -1197,7 +1197,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "23/09/2036",
     supply: "4,997",
     totalSupply: "442,099,750",
-    percentage: `${((442099750 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "391840240",
@@ -1205,7 +1205,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "23/10/2036",
     supply: "4,734",
     totalSupply: "442,104,484",
-    percentage: `${((442104484 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
   {
     daaScore: "394470040",
@@ -1213,7 +1213,7 @@ const halvingEvents: HalvingEvent[] = [
     date: "23/11/2036",
     supply: "4,471",
     totalSupply: "442,108,955",
-    percentage: `${((442108955 / 445000000) * 100).toFixed(2)}%`,
+    percentage: "94.64%",
   },
 ]
 
@@ -1292,13 +1292,13 @@ export function HalvingSchedule() {
             <table className="w-full">
               <thead className="sticky top-0 bg-black/80 z-10">
                 <tr className="border-b border-primary/20">
-                  <th className="text-left p-2 text-primary">TO DAASOURCE</th>
-                  <th className="text-left p-2 text-primary">BLOCK REWARD</th>
-                  <th className="text-left p-2 text-primary">DEV FEE</th>
-                  <th className="text-left p-2 text-primary">DATE</th>
-                  <th className="text-left p-2 text-primary">SUPPLY</th>
-                  <th className="text-left p-2 text-primary">TOTAL SUPPLY</th>
-                  <th className="text-left p-2 text-primary">%</th>
+                  <th className="text-left p-2 text-white">TO DAASOURCE</th>
+                  <th className="text-left p-2 text-white">BLOCK REWARD</th>
+                  <th className="text-left p-2 text-white">DEV FEE</th>
+                  <th className="text-left p-2 text-white">DATE</th>
+                  <th className="text-left p-2 text-white">SUPPLY</th>
+                  <th className="text-left p-2 text-white">TOTAL SUPPLY</th>
+                  <th className="text-left p-2 text-white">%</th>
                 </tr>
               </thead>
               <tbody>
