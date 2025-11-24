@@ -4,6 +4,8 @@ import "@/styles/payments-tooltip.css"
 import type React from "react"
 import { Cinzel } from "next/font/google"
 import { Toaster } from "sonner"
+import { StructuredData } from "@/components/structured-data"
+import { generateOrganizationSchema, generateWebSiteSchema } from "@/lib/structured-data"
 
 const cinzel = Cinzel({
   subsets: ["latin"],
@@ -11,7 +13,6 @@ const cinzel = Cinzel({
   display: "swap",
 })
 
-// Keep all existing metadata but enhance it with more SEO-friendly tags
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.k0bradag.com"),
   title: "KODA | Revolutionary Cryptocurrency on BLOCKDAG Network",
@@ -48,19 +49,19 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo32-Pzyp7Duebpo4eduHpBPSHtj1KjBZHD.png",
+        url: "/images/logo32.png",
         sizes: "32x32",
         type: "image/png",
       },
       {
-        url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo192-xINx4wb7ufnAyqelyEbedAqUG0msXW.png",
+        url: "/images/logo192.png",
         sizes: "192x192",
         type: "image/png",
       },
     ],
     apple: [
       {
-        url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo192-xINx4wb7ufnAyqelyEbedAqUG0msXW.png",
+        url: "/images/logo192.png",
         sizes: "192x192",
         type: "image/png",
       },
@@ -85,7 +86,7 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-    generator: 'v0.app'
+  generator: "v0.app",
 }
 
 export default function RootLayout({
@@ -93,6 +94,9 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+  const organizationSchema = generateOrganizationSchema()
+  const websiteSchema = generateWebSiteSchema()
+
   return (
     <html lang="en" className={`dark ${cinzel.className}`}>
       <head>
@@ -100,23 +104,10 @@ export default function RootLayout({
         <link rel="manifest" href="/site.webmanifest" />
         <meta name="msapplication-TileColor" content="#000000" />
         <meta name="theme-color" content="#000000" />
-        <link
-          rel="icon"
-          href="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo32-Pzyp7Duebpo4eduHpBPSHtj1KjBZHD.png"
-          sizes="32x32"
-          type="image/png"
-        />
-        <link
-          rel="icon"
-          href="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo192-xINx4wb7ufnAyqelyEbedAqUG0msXW.png"
-          sizes="192x192"
-          type="image/png"
-        />
-        <link
-          rel="apple-touch-icon"
-          href="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo192-xINx4wb7ufnAyqelyEbedAqUG0msXW.png"
-          sizes="192x192"
-        />
+        <link rel="icon" href="/images/logo32.png" sizes="32x32" type="image/png" />
+        <link rel="icon" href="/images/logo192.png" sizes="192x192" type="image/png" />
+        <link rel="apple-touch-icon" href="/images/logo192.png" sizes="192x192" />
+        <StructuredData data={[organizationSchema, websiteSchema]} />
       </head>
       <body className="bg-black text-white min-h-screen font-sans">
         {children}

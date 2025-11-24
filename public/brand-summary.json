@@ -1,0 +1,38 @@
+{
+  "name": "KODA Cryptocurrency",
+  "description": "KODA is a revolutionary cryptocurrency built on BLOCKDAG technology, offering lightning-fast transactions, enhanced security, and a robust platform for decentralized finance and enterprise blockchain solutions.",
+  "url": "https://www.k0bradag.com",
+  "logo": "/images/logo192.png",
+  "industry": "Cryptocurrency & Blockchain",
+  "founded": "2024",
+  "services": [
+    {
+      "name": "GPU Mining",
+      "description": "Mine KODA cryptocurrency using the efficient KODAHASH algorithm with consumer GPUs",
+      "url": "https://www.k0bradag.com/services/mining"
+    },
+    {
+      "name": "DeFi Platform",
+      "description": "Access decentralized finance services including trading, staking, and liquidity provision",
+      "url": "https://www.k0bradag.com/services/defi"
+    },
+    {
+      "name": "Blockchain Explorer",
+      "description": "Real-time blockchain explorer for tracking transactions, addresses, and network statistics",
+      "url": "https://www.k0bradag.com/services/blockchain-explorer"
+    }
+  ],
+  "contact": {
+    "website": "https://www.k0bradag.com",
+    "twitter": "https://twitter.com/k0bracurrency",
+    "telegram": "https://t.me/k0bracurrency",
+    "github": "https://github.com/k0bracurrency"
+  },
+  "keyFeatures": [
+    "Lightning-fast transactions powered by BLOCKDAG technology",
+    "GPU-friendly mining with KODAHASH algorithm",
+    "Low-cost DeFi services",
+    "Complete blockchain transparency",
+    "Community-driven development"
+  ]
+}
