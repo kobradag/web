@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@emotion/is-prop-valid": "latest",
+    "@radix-ui/react-dialog": "latest",
     "@radix-ui/react-label": "latest",
     "@radix-ui/react-select": "latest",
     "@radix-ui/react-slider": "latest",
@@ -17,6 +18,7 @@
     "mapbox-gl": "latest",
     "moment": "latest",
     "next": "13.5.6",
+    "next-themes": "latest",
     "qr-code-styling": "^1.6.0-rc.1",
     "qrcode": "latest",
     "qrcode.react": "4.2.0",
